@@ -38,4 +38,4 @@ Before running the project, you need to have Node.js and npm (Node Package Manag
     ```bash
     npm run dev
 ### This command runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will reload when you make changes.
+Open [http://localhost:5174](http://localhost:5174) to view it in your browser. The page will reload when you make changes.
