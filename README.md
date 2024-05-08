@@ -30,3 +30,12 @@ Before running the project, you need to have Node.js and npm (Node Package Manag
    cd ContactManagementTaiyo
   
 2. **Install All Dependencies**
+
+    ```bash
+    npm install
+
+3. **Run the development server**
+    ```bash
+    npm run dev
+### This command runs the app in the development mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will reload when you make changes.
