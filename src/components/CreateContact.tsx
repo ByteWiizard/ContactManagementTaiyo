@@ -56,7 +56,7 @@ const AddContact = () => {
   };
 
   return (
-    <div className="overflow-visible md:h-screen h-[580px] md:w-full flex flex-col md:text-center items-center justify-center border text-[#F49F1C] bg-[#F3F3F3]">
+    <div className="overflow-visible md:h-screen h-[580px] md:w-full flex flex-col md:text-center items-center justify-center border text-black bg-[#F3F3F3]">
       <h1 className="text-[25px] md:text-3xl mb-8 font-bold text-gray-800">
         Create New Contact
       </h1>
