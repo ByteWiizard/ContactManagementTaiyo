@@ -29,4 +29,4 @@ Before running the project, you need to have Node.js and npm (Node Package Manag
    git clone https://your-repository-url.com
    cd ContactManagementTaiyo
   ```
-1. **Clone the repository**
+2. **Install All Dependencies**
